@@ -242,3 +242,22 @@ header{
         font-size: 70px;
         text-align: center
     }
+
+    .encabezadoequipos {
+       text-align: center
+
+    }
+
+    .equipolol {
+        background-color: #b346d3;
+        display: grid;
+        grid-template-columns: 2fr 2fr 2fr 2fr;
+        grid-template-rows: 2fr 2fr 2fr ;
+    }
+
+    .partidosfechas{
+        background-color: #b346d3;
+        display: grid;
+        grid-template-columns: 2fr 2fr;
+        grid-template-rows: 2fr 2fr 2fr;
+    }
